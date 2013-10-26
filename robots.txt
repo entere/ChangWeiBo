@@ -1,0 +1,17 @@
+User-agent: *
+
+Disallow: /content/
+Disallow: /CutyCapt/
+Disallow: /font/
+Disallow: /images/
+Disallow: /ueditor/
+Disallow: /lang/
+Disallow: /inc/
+Disallow: /tcpdf/
+Disallow: /upload/
+
+Disallow: /function.php
+Disallow: /result.php
+Disallow: /result_tcpdf.php
+Disallow: /tcpdf_config.php
+Disallow: /cron.php

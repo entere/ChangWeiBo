@@ -1,0 +1,28 @@
+@charset "utf-8";
+::-webkit-scrollbar-thumb:vertical{height:10px;background-color:#ccc;}
+::-webkit-scrollbar{width:15px;height:5px;background:#FFF;margin-right:15px;}
+body{width:95%;background: #fff url(images/bg.png) repeat;}
+#loading{z-index:1;padding:5px 0 5px 9px;background:#c44;left:0;top:0;width:90px;color:#fff;position:fixed}   
+h1{line-height: 1.6;font-size: 24px; text-align:center;}        
+#form * {line-height: 1.6;line-height:1.6 !important;}        
+#submit-btn{display: inline-block;height: 40px;width:200px;line-height: 25px;}       
+
+.wrapper{margin:0px auto;width:960px;padding:0 10px;background-color:#fff;box-shadow: 0 1px 3px #ccc;}
+.wrapper{
+-webkit-border-top-left-radius:10px;
+-moz-border-radius-topleft:10px;
+border-top-left-radius: 10px;
+-webkit-border-bottom-right-radius:10px;
+-moz-border-radius-bottomright:10px;
+border-bottom-right-radius: 10px;
+}
+.wrapper li{ list-style:none; margin-bottom:20px;}
+.more_selcet{padding-top:0px;}
+.more_selcet dt{float:left;}
+.more_selcet dt,.more_selcet dd{padding-bottom:10px;}
+.more_selcet dd input{margin-right:10px;}
+.more_selcet dd input.m_txt{width:225px;border:1px #bbb solid; height:22px}
+.more_selcet dd input.m_rad{margin-left:10px;margin-right:5px;cursor: pointer;}
+.more_style{border-top: 0px;padding-top:15px;border-bottom:0px;border-bottom: 1px #D8D8D8 dashed;}
+.foot{height:40px;line-height:40px;padding:0px 5px 20px 5px;}
+.copy{text-align:center;border-top:2px solid #1ba1e2;}

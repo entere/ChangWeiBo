@@ -1,0 +1,6 @@
+@charset "utf-8";
+body{font-family:Arial,"Arial Black","Times New Roman","Microsoft YaHei","宋体","楷体","黑体","隶书";}        
+.wrapper1{width: 450px;margin: 0 auto;}
+.wrapper2{width: 1024px;margin: 0 auto; }
+.wb_content{margin-right:5px;padding-right:15px;}
+.wbtag{width:100%;border-top: 1px #000 solid; margin-top:25px; padding-top:10px; text-align:right; padding-right:15px;}
